@@ -1,5 +1,4 @@
-Data Analysis and Machine Learning
-Exploring data analysis techniques 
+Exploring data analysis and prediction techniques 
 
 Author: Raghav Gupta
 
